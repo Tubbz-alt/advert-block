@@ -1,5 +1,5 @@
-advert-block.desktop /usr/share/applications/antix
+advert-block.desktop /usr/share/applications
 locale/*	     /usr/share/locale
-changelog.gz         /usr/share/doc/advert-block-antix
-copyright            /usr/share/doc/advert-block-antix
+changelog.gz         /usr/share/doc/advert-block
+copyright            /usr/share/doc/advert-block
 advert-block.png     /usr/share/pixmaps

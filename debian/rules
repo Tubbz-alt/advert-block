@@ -12,7 +12,7 @@ clean:
 	dh_clean
 
 install:
-	dh_install block-advert.sh /usr/local/bin
+	dh_install block-advert.sh /usr/bin
 	dh_testdir
 	dh_testroot
 

@@ -1,0 +1,11 @@
+Package: advert-block
+Version: 0.2.7+peppermint
+Architecture: all
+Maintainer: anticapitalista <antiX@operamail.com>
+Installed-Size: 159
+Depends: wget, gksu, zenity
+Section: admin
+Priority: optional
+Homepage: http://antix.mepis.org
+Description: Script and Desktop launcher for advert block,
+ based on the website add blocker for antiX.
