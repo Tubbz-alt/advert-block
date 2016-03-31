@@ -1,6 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=advert-block
+Name=Advert Block
+Comment=Block adverts sites via the system hosts file
 Exec=gksu block-advert.sh
 Icon=advert-block
 Terminal=false
